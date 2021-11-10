@@ -2,5 +2,5 @@
 nested recylclerview + concad recycler view
 
 
-https://user-images.githubusercontent.com/26242114/141139001-19a9a53c-f552-4daa-9563-49bea4c5f19f.mp4
+https://user-images.githubusercontent.com/26242114/141147294-ffd5775f-aa03-4f84-bc6f-d481a49b222e.mp4
 
